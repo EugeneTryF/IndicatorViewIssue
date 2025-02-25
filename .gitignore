@@ -1,0 +1,57 @@
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]ebug-*/
+[Dd]ist-*/
+bin/
+obj/
+
+# Windows installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer package files
+*.vssscc
+*.vspscc
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# User-specific files (Windows)
+*.dbmdl
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# .NET Core specific files
+.vscode/
+
+# Rider
+.idea/
+
+# User-specific files for Visual Studio for Mac
+.vscode/
+.idea/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
